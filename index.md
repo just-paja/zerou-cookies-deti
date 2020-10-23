@@ -28,15 +28,13 @@
 
 ---
 
-## Co je v analytické sušence
-
-(obvykle)
+## Co bývá v analytické sušence
 
 ----
 
 Zdroj (domain)
 
-`.ceskytunak.cz`
+`.mojedomena.cz`
 
 ----
 
@@ -82,19 +80,16 @@ Anonymní identifikátory
 
 ----
 
+#### UX
+
+<video autoplay src="./every-website.mp4" />
+
+----
+
 ### Česko/ÚOOÚ
 
 > Stačí informovat
 
----
+----
 
-## The good
-
-https://optimics.cz
-
-## The bad
-
-https://polocas-napadu.cz
-
-## The ugly
-
+<!-- .slide: data-background="./cookie-banner.png" -->
