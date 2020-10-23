@@ -30,6 +30,8 @@
 
 ## Co je v analytické sušence
 
+(obvykle)
+
 ----
 
 Zdroj (domain)
@@ -44,14 +46,18 @@ Expirace
 
 ----
 
-Anonymní identifikátor
+Anonymní identifikátory
 
-`GA1.2.1106508794.1603444376`
+`GA1.2.21496793.1603449202`
+`d565e9becf3b9a5fe8dfb5...`
 
 ---
 
-* K čemu se používá (grafy)
-* Cookie consent
+## Tak co, sledují mě sušenkami?
+
+----
+
+> Sledují, ale neví, kdo jste
 
 ---
 
@@ -59,13 +65,24 @@ Anonymní identifikátor
 
 ----
 
-### GDPR
+### EU/GDPR
 
 > Uživatel musí rozumět a souhlasit
 
 ----
 
-### ÚOOÚ
+#### Cookie consent
+
+* Uživatelské preference
+* Povolování sušenek podle účelu
+
+----
+
+<!-- .slide: data-background="./cookie-consent-2.png" -->
+
+----
+
+### Česko/ÚOOÚ
 
 > Stačí informovat
 
